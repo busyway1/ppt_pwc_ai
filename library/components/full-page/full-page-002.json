@@ -1,0 +1,32 @@
+{
+  "id": "full-page-002",
+  "type": "full-page",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 20,
+    "region": {
+      "left": 3.61,
+      "top": 2.18,
+      "width": 6.77,
+      "height": 1.61
+    }
+  },
+  "pattern": {
+    "item_count": 1
+  },
+  "design_tokens": {
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "full-page"
+    ],
+    "text_summary": "특수관계자 매출액 | - 일반적으로 감사보고서 내 특수관계자 주석상 매출액과 일치함 | 접대비 구분(*1) | - 접대비 지출내역 중 법정증빙 구비여부 및 금액기준에 따른 분류요청 | - 유사접대비(접대비 계정 외 ...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.029980+00:00"
+}

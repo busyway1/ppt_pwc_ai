@@ -1,0 +1,53 @@
+{
+  "id": "card-grid-006",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 4,
+    "region": {
+      "left": 2.6,
+      "top": 4.78,
+      "width": 7.44,
+      "height": 1.65
+    }
+  },
+  "pattern": {
+    "item_count": 3,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 1,
+      "cols": 3,
+      "gap_inches": 1.78
+    },
+    "item_template": {
+      "width": 1.89,
+      "height": 1.65,
+      "shape_type": "TEXT_BOX",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 12.0,
+          "bold": true,
+          "relative_top": 0.0,
+          "relative_height": 1.0
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "text_color": "0060D7",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "표준 SWP 생성 및 Assign | 재무제표 및 PBC 검토 | 세무조정 수행 (과세표준, 세액공제 등) | 세무조정결과물 Draft 발송 | STS 서식파일 생성 | 과세표준 및 신고서 서식작성 | 홈택스 전자신...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.917161+00:00"
+}

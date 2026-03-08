@@ -1,0 +1,59 @@
+{
+  "id": "header-007",
+  "type": "header",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 7,
+    "region": {
+      "left": 0.45,
+      "top": 0.84,
+      "width": 9.92,
+      "height": 0.93
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "alignment": "LEFT",
+    "has_background": false,
+    "grid": {
+      "rows": 1,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 9.92,
+      "height": 0.93,
+      "shape_type": "rect",
+      "content_zones": [
+        {
+          "role": "body",
+          "font_size": 12,
+          "bold": true,
+          "relative_top": 0.0,
+          "relative_height": 0.667
+        },
+        {
+          "role": "subheading",
+          "font_size": 18.0,
+          "bold": true,
+          "relative_top": 0.667,
+          "relative_height": 0.333
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "header"
+    ],
+    "text_summary": "세무조정 진행절차 개요 | 세무조정 후속작업 사례",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.960421+00:00"
+}

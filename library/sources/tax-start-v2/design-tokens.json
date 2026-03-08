@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "7D7D7D",
+    "lt2": "DEDEDE",
+    "accent1": "D04A02",
+    "accent2": "FFB600",
+    "accent3": "E0301E",
+    "accent4": "EB8C00",
+    "accent5": "DB536A",
+    "accent6": "464646",
+    "hlink": "D04A02",
+    "folHlink": "DB536A"
+  },
+  "fonts": {
+    "major_latin": "Georgia",
+    "major_ea": "바탕",
+    "minor_latin": "Arial",
+    "minor_ea": "맑은 고딕"
+  },
+  "slide_dimensions": {
+    "width_inches": 10.83,
+    "height_inches": 7.5
+  }
+}

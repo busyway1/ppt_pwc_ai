@@ -1,0 +1,58 @@
+{
+  "id": "card-grid-057",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 38,
+    "region": {
+      "left": 3.61,
+      "top": 2.02,
+      "width": 6.77,
+      "height": 0.69
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 1,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 6.77,
+      "height": 0.69,
+      "shape_type": "AUTO_SHAPE",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 12.0,
+          "relative_top": 0.0,
+          "relative_height": 0.5
+        },
+        {
+          "role": "body",
+          "font_size": 12.0,
+          "relative_top": 0.5,
+          "relative_height": 0.5
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "상법상 해산 및 청산종결 등기(회사의 존재가 소멸되는 상법상 제도)된 경우 당해 주식가액에 대한 손금산입 가능 | - 법인등기부등본(*1)",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.126659+00:00"
+}

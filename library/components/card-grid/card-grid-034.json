@@ -1,0 +1,53 @@
+{
+  "id": "card-grid-034",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 24,
+    "region": {
+      "left": 0.81,
+      "top": 2.1,
+      "width": 9.57,
+      "height": 2.85
+    }
+  },
+  "pattern": {
+    "item_count": 2,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 2,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 6.77,
+      "height": 1.75,
+      "shape_type": "AUTO_SHAPE",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 12.0,
+          "relative_top": 0.0,
+          "relative_height": 1.0
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "fill_1": "BACKGROUND_1",
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "업무무관가지급금 및 업무무관부동산 적수, 차입금 적수 계산내역(*1) | 회사의 가중평균차입이자율 계산내역 | 업무무관가지급금 관련 당해 사업연도에 인식한 이자수익\u000b - 계정별원장(이자수익 원장)을 통해 해당 거래처...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.058675+00:00"
+}

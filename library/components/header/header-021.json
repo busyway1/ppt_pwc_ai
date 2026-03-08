@@ -1,0 +1,58 @@
+{
+  "id": "header-021",
+  "type": "header",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 21,
+    "region": {
+      "left": 0.45,
+      "top": 0.84,
+      "width": 9.92,
+      "height": 1.01
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "alignment": "LEFT",
+    "has_background": false,
+    "grid": {
+      "rows": 1,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 9.92,
+      "height": 1.01,
+      "shape_type": "rect",
+      "content_zones": [
+        {
+          "role": "body",
+          "font_size": 12,
+          "bold": true,
+          "relative_top": 0.0,
+          "relative_height": 0.5
+        },
+        {
+          "role": "body",
+          "font_size": 12,
+          "relative_top": 0.5,
+          "relative_height": 0.5
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "header"
+    ],
+    "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.035006+00:00"
+}

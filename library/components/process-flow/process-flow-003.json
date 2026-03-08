@@ -1,0 +1,37 @@
+{
+  "id": "process-flow-003",
+  "type": "process-flow",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 8,
+    "region": {
+      "left": 0.45,
+      "top": 2.05,
+      "width": 9.92,
+      "height": 4.38
+    }
+  },
+  "pattern": {
+    "item_count": 6,
+    "orientation": "vertical",
+    "step_count": 6,
+    "has_connectors": true
+  },
+  "design_tokens": {
+    "fill_2": "BACKGROUND_2",
+    "fill_5": "BACKGROUND_2",
+    "text_theme_color": "ACCENT_1",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "process-flow"
+    ],
+    "text_summary": "1 | 세무조정 요청자료 발송 시기 | 회사가 요청자료에 대한 대응 시간을 충분히 가질 수 있도록 field-work 전 발송함이 유리 | 한편, field-work 중에도 신규 세무조정 항목이 발견되는 경우 등 요...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.970034+00:00"
+}

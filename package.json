@@ -1,0 +1,11 @@
+{
+  "name": "ppt_wizard",
+  "version": "1.0.0",
+  "description": "PwC Proposal PPT Automation Tool",
+  "private": true,
+  "dependencies": {
+    "pptxgenjs": "^3.12.0",
+    "playwright": "^1.40.0",
+    "sharp": "^0.33.0"
+  }
+}

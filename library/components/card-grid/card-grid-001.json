@@ -1,0 +1,51 @@
+{
+  "id": "card-grid-001",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 0,
+    "region": {
+      "left": 0.24,
+      "top": 0.6,
+      "width": 5.12,
+      "height": 4.1
+    }
+  },
+  "pattern": {
+    "item_count": 2,
+    "orientation": "vertical",
+    "grid": {
+      "rows": 2,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 5.12,
+      "height": 2.95,
+      "shape_type": "PLACEHOLDER",
+      "content_zones": [
+        {
+          "role": "body",
+          "font_size": 12,
+          "bold": true,
+          "relative_top": 0.0,
+          "relative_height": 1.0
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "2025 Tax Start\u000b- 세무조정 관련 회사자료 보는 법 | Strictly Private and Confidential | Oct 2025",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.878421+00:00"
+}

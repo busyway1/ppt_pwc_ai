@@ -1,0 +1,33 @@
+{
+  "id": "table-layout-001",
+  "type": "table-layout",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 6,
+    "region": {
+      "left": 0.91,
+      "top": 1.86,
+      "width": 9.79,
+      "height": 3.65
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "table_detected": true
+  },
+  "design_tokens": {
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "table-layout"
+    ],
+    "text_summary": "일반적인 절차 | Provision(accrual) → 세무조정 반영 → 법인세분개 반영 → 세무조정 수정 | 수정분개 → 세무조정 수정 → 법인세분개 수정 → 세무조정 수정 | 세무조정 수정 → 법인세분개 수정 →...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.957653+00:00"
+}

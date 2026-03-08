@@ -1,0 +1,58 @@
+{
+  "id": "card-grid-053",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 36,
+    "region": {
+      "left": 3.45,
+      "top": 2.18,
+      "width": 6.92,
+      "height": 1.55
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 1,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 6.92,
+      "height": 1.55,
+      "shape_type": "AUTO_SHAPE",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 12.0,
+          "relative_top": 0.0,
+          "relative_height": 0.5
+        },
+        {
+          "role": "body",
+          "font_size": 12.0,
+          "relative_top": 0.5,
+          "relative_height": 0.5
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "대손요건 충족(소멸시효완성, 사업의 폐지, 회생계획인가 등)여부를 입증할 수 있는 자료 | 회수불능임이 객관적으로 확인되는 때에 손금산입 가능하므로 실무상 회사의 회수노력에 대한 자료의 구비 권고 | - 거래처의 폐...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.117542+00:00"
+}

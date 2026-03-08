@@ -1,0 +1,60 @@
+{
+  "id": "card-grid-042",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 29,
+    "region": {
+      "left": 3.61,
+      "top": 1.94,
+      "width": 6.77,
+      "height": 1.18
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 1,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 6.77,
+      "height": 1.18,
+      "shape_type": "TEXT_BOX",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 13.0,
+          "relative_top": 0.0,
+          "relative_height": 0.5
+        },
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 13.0,
+          "bold": true,
+          "relative_top": 0.5,
+          "relative_height": 0.5
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "기부금명세서 : 당해 사업연도 중 지출된 전체 기부금리스트 | 기부금영수증(*1) : 특례기부금, 일반기부금 여부 확인(기부금단체조회(*2)) | 미지급기부금 및 이월기부금 관리 누락되지 않도록 유의할 것",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.083947+00:00"
+}

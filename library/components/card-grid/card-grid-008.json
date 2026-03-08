@@ -1,0 +1,52 @@
+{
+  "id": "card-grid-008",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 5,
+    "region": {
+      "left": 0.93,
+      "top": 5.54,
+      "width": 8.98,
+      "height": 0.69
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 1,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 8.98,
+      "height": 0.69,
+      "shape_type": "TEXT_BOX",
+      "content_zones": [
+        {
+          "role": "subheading",
+          "font_size": 18.0,
+          "bold": true,
+          "alignment": "CENTER",
+          "relative_top": 0.0,
+          "relative_height": 1.0
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "최초세무조정 이후에도 각종 변동사항 확인 및 후속작업에 대한 | 적극적인 참여와 신속한 Feedback이 매우 중요함",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.943735+00:00"
+}

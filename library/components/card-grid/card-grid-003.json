@@ -1,0 +1,51 @@
+{
+  "id": "card-grid-003",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 3,
+    "region": {
+      "left": 5.0,
+      "top": 1.44,
+      "width": 4.52,
+      "height": 3.47
+    }
+  },
+  "pattern": {
+    "item_count": 2,
+    "orientation": "vertical",
+    "grid": {
+      "rows": 2,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 4.52,
+      "height": 2.17,
+      "shape_type": "TEXT_BOX",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 13.0,
+          "relative_top": 0.0,
+          "relative_height": 1.0
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "세무대리인의 역할 | 회사 업무상 우선순위 | De Minimis | 이슈사항의 반영 여부 | 적극적인 Communication의 중요성 (ICA 및 회사) | 세무 이슈가 어떤 계정에 있는가? | Complianc...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.901431+00:00"
+}

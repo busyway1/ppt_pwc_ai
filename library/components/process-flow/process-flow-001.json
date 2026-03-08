@@ -1,0 +1,37 @@
+{
+  "id": "process-flow-001",
+  "type": "process-flow",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 2,
+    "region": {
+      "left": 0.45,
+      "top": 2.21,
+      "width": 9.92,
+      "height": 4.35
+    }
+  },
+  "pattern": {
+    "item_count": 7,
+    "orientation": "vertical",
+    "step_count": 7,
+    "has_connectors": true
+  },
+  "design_tokens": {
+    "item_fill": "BACKGROUND_2",
+    "fill_3": "BACKGROUND_2",
+    "fill_6": "BACKGROUND_2",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "process-flow"
+    ],
+    "text_summary": "기업이 일반적으로 공정∙타당하다고 인정되는 기업회계기준에 의하여 작성한 재무제표상의 당기순손익을 기초로 하여 세법의 규정에 따라 익금과 손금을 조정함으로써 정확한 과세소득을 계산하기 위한 일련의 절차 | 2 | 세무...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.890462+00:00"
+}

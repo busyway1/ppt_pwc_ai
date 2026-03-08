@@ -1,0 +1,35 @@
+{
+  "id": "process-flow-002",
+  "type": "process-flow",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 4,
+    "region": {
+      "left": 0.76,
+      "top": 1.44,
+      "width": 9.03,
+      "height": 4.75
+    }
+  },
+  "pattern": {
+    "item_count": 10,
+    "orientation": "horizontal",
+    "step_count": 10,
+    "has_connectors": true
+  },
+  "design_tokens": {
+    "text_theme_color": "BACKGROUND_1",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "process-flow"
+    ],
+    "text_summary": "Salesforce Opportunity생성 | RM Dashboard 생성 | CA, AFS, EA승인 및 감사협의 | 계약서작성 및 날인 | 프로젝트 코드신청 | 법인세 | 신고서식 작성 | Review | Pr...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:35.938318+00:00"
+}

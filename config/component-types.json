@@ -1,0 +1,203 @@
+{
+  "types": [
+    {
+      "id": "header",
+      "name_ko": "헤더/제목 영역",
+      "keywords": ["제목", "타이틀", "title", "heading"],
+      "heuristics": {
+        "position": "top",
+        "max_shapes": 3,
+        "min_font_size": 18,
+        "region_height_ratio": 0.25
+      }
+    },
+    {
+      "id": "card-grid",
+      "name_ko": "카드 그리드",
+      "keywords": ["단계", "항목", "방법론", "steps", "methodology"],
+      "heuristics": {
+        "min_similar_shapes": 3,
+        "size_tolerance": 0.15,
+        "gap_regularity": true
+      }
+    },
+    {
+      "id": "timeline",
+      "name_ko": "타임라인/일정",
+      "keywords": ["일정", "스케줄", "단계", "schedule", "timeline"],
+      "heuristics": {
+        "linear_arrangement": true,
+        "sequential_text": true
+      }
+    },
+    {
+      "id": "table-layout",
+      "name_ko": "표/테이블",
+      "keywords": ["실적", "비교", "보수", "table", "comparison"],
+      "heuristics": {
+        "grid_alignment": true,
+        "row_col_structure": true
+      }
+    },
+    {
+      "id": "icon-grid",
+      "name_ko": "아이콘+텍스트 그리드",
+      "keywords": ["서비스", "장점", "services", "benefits"],
+      "heuristics": {
+        "has_images": true,
+        "paired_text_image": true
+      }
+    },
+    {
+      "id": "two-column",
+      "name_ko": "2단 레이아웃",
+      "keywords": ["비교", "전/후", "compare", "before/after"],
+      "heuristics": {
+        "column_count": 2,
+        "symmetric_layout": true
+      }
+    },
+    {
+      "id": "process-flow",
+      "name_ko": "프로세스 플로우",
+      "keywords": ["프로세스", "절차", "process", "flow", "workflow"],
+      "heuristics": {
+        "has_connectors": true,
+        "directional_flow": true
+      }
+    },
+    {
+      "id": "org-chart",
+      "name_ko": "조직도/팀 구성",
+      "keywords": ["팀", "조직", "인력", "team", "organization"],
+      "heuristics": {
+        "hierarchical_layout": true,
+        "person_info": true
+      }
+    },
+    {
+      "id": "footer",
+      "name_ko": "푸터/하단 영역",
+      "keywords": [],
+      "heuristics": {
+        "position": "bottom",
+        "max_shapes": 5,
+        "max_font_size": 10,
+        "region_height_ratio": 0.12
+      }
+    },
+    {
+      "id": "accent-bar",
+      "name_ko": "장식 바/구분선",
+      "keywords": [],
+      "heuristics": {
+        "narrow_shape": true,
+        "no_text_or_minimal": true,
+        "solid_fill": true
+      }
+    },
+    {
+      "id": "full-page",
+      "name_ko": "전체 페이지 (표지/마무리)",
+      "keywords": ["표지", "감사", "cover", "thank you"],
+      "heuristics": {
+        "covers_most_area": true,
+        "few_shapes": true
+      }
+    },
+    {
+      "id": "chart-area",
+      "name_ko": "차트 영역",
+      "keywords": ["차트", "그래프", "추이", "chart", "graph"],
+      "heuristics": {
+        "has_chart_shape": true
+      }
+    },
+    {
+      "id": "roadmap",
+      "name_ko": "로드맵/마일스톤",
+      "keywords": ["로드맵", "마일스톤", "roadmap", "milestone", "단계별"],
+      "heuristics": {
+        "linear_arrangement": true,
+        "has_date_labels": true
+      }
+    },
+    {
+      "id": "value-prop",
+      "name_ko": "가치 제안",
+      "keywords": [
+        "가치",
+        "장점",
+        "핵심",
+        "value",
+        "benefit",
+        "강점",
+        "차별화"
+      ],
+      "heuristics": {
+        "highlight_layout": true,
+        "few_key_items": true
+      }
+    },
+    {
+      "id": "comparison",
+      "name_ko": "비교/As-Is To-Be",
+      "keywords": [
+        "비교",
+        "대비",
+        "전후",
+        "As-Is",
+        "To-Be",
+        "현재",
+        "미래",
+        "개선"
+      ],
+      "heuristics": {
+        "symmetric_layout": true,
+        "contrast_labels": true
+      }
+    },
+    {
+      "id": "hero",
+      "name_ko": "핵심 메시지 강조",
+      "keywords": ["핵심", "임팩트", "key message", "강조", "핵심 수치"],
+      "heuristics": {
+        "large_text": true,
+        "few_shapes": true
+      }
+    },
+    {
+      "id": "kpi-dashboard",
+      "name_ko": "KPI/성과 지표",
+      "keywords": [
+        "KPI",
+        "성과",
+        "지표",
+        "달성률",
+        "실적",
+        "목표",
+        "dashboard"
+      ],
+      "heuristics": {
+        "has_numbers": true,
+        "metric_layout": true
+      }
+    },
+    {
+      "id": "checklist",
+      "name_ko": "체크리스트",
+      "keywords": [
+        "체크",
+        "요구사항",
+        "checklist",
+        "requirements",
+        "항목",
+        "확인"
+      ],
+      "heuristics": {
+        "bullet_list": true,
+        "check_marks": true
+      }
+    }
+  ]
+}

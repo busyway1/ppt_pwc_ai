@@ -1,0 +1,2332 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-03-07T15:50:36.199368+00:00",
+  "total_components": 166,
+  "total_sources": 1,
+  "components": [
+    {
+      "id": "card-grid-001",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 0,
+      "item_count": 2,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025 Tax Start\u000b- 세무조정 관련 회사자료 보는 법 | Strictly Private and Confidential | Oct 2025",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.878421+00:00"
+    },
+    {
+      "id": "header-001",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 1,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Agenda",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.879487+00:00"
+    },
+    {
+      "id": "header-002",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 2,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정의 목적 및 근거 | 1 | 세무조정이란?",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.882029+00:00"
+    },
+    {
+      "id": "process-flow-001",
+      "type": "process-flow",
+      "source_id": "tax-start-v2",
+      "slide_index": 2,
+      "item_count": 7,
+      "section_types": [
+        "process-flow"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "기업이 일반적으로 공정∙타당하다고 인정되는 기업회계기준에 의하여 작성한 재무제표상의 당기순손익을 기초로 하여 세법의 규정에 따라 익금과 손금을 조정함으로써 정확한 과세소득을 계산하기 위한 일련의 절차 | 2 | 세무...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.890462+00:00"
+    },
+    {
+      "id": "card-grid-002",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 2,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.891323+00:00"
+    },
+    {
+      "id": "header-003",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 3,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정의 목적 및 근거 – 세무조정의 의의 | 회계감사 vs 세무조정",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.893383+00:00"
+    },
+    {
+      "id": "card-grid-003",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 3,
+      "item_count": 2,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무대리인의 역할 | 회사 업무상 우선순위 | De Minimis | 이슈사항의 반영 여부 | 적극적인 Communication의 중요성 (ICA 및 회사) | 세무 이슈가 어떤 계정에 있는가? | Complianc...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.901431+00:00"
+    },
+    {
+      "id": "card-grid-004",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 3,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조사 vs 세무조정",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.902846+00:00"
+    },
+    {
+      "id": "card-grid-005",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 3,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.903697+00:00"
+    },
+    {
+      "id": "header-004",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 4,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 진행절차 개요 | RM절차(전 Product 공통)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.905941+00:00"
+    },
+    {
+      "id": "card-grid-006",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 4,
+      "item_count": 3,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "표준 SWP 생성 및 Assign | 재무제표 및 PBC 검토 | 세무조정 수행 (과세표준, 세액공제 등) | 세무조정결과물 Draft 발송 | STS 서식파일 생성 | 과세표준 및 신고서 서식작성 | 홈택스 전자신...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.917161+00:00"
+    },
+    {
+      "id": "process-flow-002",
+      "type": "process-flow",
+      "source_id": "tax-start-v2",
+      "slide_index": 4,
+      "item_count": 10,
+      "section_types": [
+        "process-flow"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Salesforce Opportunity생성 | RM Dashboard 생성 | CA, AFS, EA승인 및 감사협의 | 계약서작성 및 날인 | 프로젝트 코드신청 | 법인세 | 신고서식 작성 | Review | Pr...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.938318+00:00"
+    },
+    {
+      "id": "card-grid-007",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 4,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.939162+00:00"
+    },
+    {
+      "id": "header-005",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 5,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 진행절차 개요 | 세무조정 시기별 상세수행내역",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.941076+00:00"
+    },
+    {
+      "id": "card-grid-008",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 5,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "최초세무조정 이후에도 각종 변동사항 확인 및 후속작업에 대한 | 적극적인 참여와 신속한 Feedback이 매우 중요함",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.943735+00:00"
+    },
+    {
+      "id": "card-grid-009",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 5,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.944577+00:00"
+    },
+    {
+      "id": "header-006",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 6,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 진행절차 개요 | 재무제표 수정 | 법인세 신고서 수정",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.947492+00:00"
+    },
+    {
+      "id": "table-layout-001",
+      "type": "table-layout",
+      "source_id": "tax-start-v2",
+      "slide_index": 6,
+      "item_count": 1,
+      "section_types": [
+        "table-layout"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "일반적인 절차 | Provision(accrual) → 세무조정 반영 → 법인세분개 반영 → 세무조정 수정 | 수정분개 → 세무조정 수정 → 법인세분개 수정 → 세무조정 수정 | 세무조정 수정 → 법인세분개 수정 →...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.957653+00:00"
+    },
+    {
+      "id": "card-grid-010",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 6,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.958520+00:00"
+    },
+    {
+      "id": "header-007",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 7,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 진행절차 개요 | 세무조정 후속작업 사례",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.960421+00:00"
+    },
+    {
+      "id": "card-grid-011",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 7,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.961266+00:00"
+    },
+    {
+      "id": "header-008",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 8,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 절차",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.962294+00:00"
+    },
+    {
+      "id": "process-flow-003",
+      "type": "process-flow",
+      "source_id": "tax-start-v2",
+      "slide_index": 8,
+      "item_count": 6,
+      "section_types": [
+        "process-flow"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "1 | 세무조정 요청자료 발송 시기 | 회사가 요청자료에 대한 대응 시간을 충분히 가질 수 있도록 field-work 전 발송함이 유리 | 한편, field-work 중에도 신규 세무조정 항목이 발견되는 경우 등 요...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.970034+00:00"
+    },
+    {
+      "id": "card-grid-012",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 8,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.970882+00:00"
+    },
+    {
+      "id": "header-009",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 9,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.971873+00:00"
+    },
+    {
+      "id": "full-page-001",
+      "type": "full-page",
+      "source_id": "tax-start-v2",
+      "slide_index": 9,
+      "item_count": 1,
+      "section_types": [
+        "full-page"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "전기 세무조정계산서 | 당분기(분기 또는 중간예납 신고 시) 또는 기말 현재 재무제표 또는 정산표(*1) | 계정별원장(*2) 및 계정명세서(*3) | 1) 계정별 원장 | - 회사의 경우에 따라 전(全)계정 원장을...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.985106+00:00"
+    },
+    {
+      "id": "card-grid-013",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 9,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "1. 일반 사항",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.986348+00:00"
+    },
+    {
+      "id": "card-grid-014",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 9,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.987190+00:00"
+    },
+    {
+      "id": "header-010",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 10,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.989077+00:00"
+    },
+    {
+      "id": "card-grid-015",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 10,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.989924+00:00"
+    },
+    {
+      "id": "header-011",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 11,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.991697+00:00"
+    },
+    {
+      "id": "card-grid-016",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 11,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.992547+00:00"
+    },
+    {
+      "id": "header-012",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 12,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.994356+00:00"
+    },
+    {
+      "id": "card-grid-017",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 12,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.995175+00:00"
+    },
+    {
+      "id": "header-013",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 13,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.996978+00:00"
+    },
+    {
+      "id": "card-grid-018",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 13,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.997821+00:00"
+    },
+    {
+      "id": "header-014",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 14,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:35.999644+00:00"
+    },
+    {
+      "id": "card-grid-019",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 14,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.000481+00:00"
+    },
+    {
+      "id": "header-015",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 15,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.002324+00:00"
+    },
+    {
+      "id": "card-grid-020",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 15,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "보험계리인의 종업원 퇴직급여 계리평가보고서(*1) | 근로자퇴직급여 보장법(이하 “근퇴법“)에 의한 퇴직급여추계액(*2) | 일시퇴직기준 퇴직금 추계액(*3) | 총 급여액 | - 퇴직급여추계액 한도(추계액의 0%)...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.010099+00:00"
+    },
+    {
+      "id": "card-grid-021",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 15,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2. 퇴직급여\u000b    충당금",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.011463+00:00"
+    },
+    {
+      "id": "card-grid-022",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 15,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.012314+00:00"
+    },
+    {
+      "id": "header-016",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 16,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.014150+00:00"
+    },
+    {
+      "id": "card-grid-023",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 16,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.014990+00:00"
+    },
+    {
+      "id": "header-017",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 17,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.016825+00:00"
+    },
+    {
+      "id": "card-grid-024",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 17,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.017657+00:00"
+    },
+    {
+      "id": "header-018",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 18,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.019462+00:00"
+    },
+    {
+      "id": "card-grid-025",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 18,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.020342+00:00"
+    },
+    {
+      "id": "header-019",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 19,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.022178+00:00"
+    },
+    {
+      "id": "card-grid-026",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 19,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.023034+00:00"
+    },
+    {
+      "id": "header-020",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 20,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.024870+00:00"
+    },
+    {
+      "id": "full-page-002",
+      "type": "full-page",
+      "source_id": "tax-start-v2",
+      "slide_index": 20,
+      "item_count": 1,
+      "section_types": [
+        "full-page"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "특수관계자 매출액 | - 일반적으로 감사보고서 내 특수관계자 주석상 매출액과 일치함 | 접대비 구분(*1) | - 접대비 지출내역 중 법정증빙 구비여부 및 금액기준에 따른 분류요청 | - 유사접대비(접대비 계정 외 ...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.029980+00:00"
+    },
+    {
+      "id": "card-grid-027",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 20,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "3. 접대비 | (기업업무추진비)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.032335+00:00"
+    },
+    {
+      "id": "card-grid-028",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 20,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.033183+00:00"
+    },
+    {
+      "id": "header-021",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 21,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.035006+00:00"
+    },
+    {
+      "id": "card-grid-029",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 21,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.035863+00:00"
+    },
+    {
+      "id": "header-022",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 22,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.037770+00:00"
+    },
+    {
+      "id": "card-grid-030",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 22,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "(렌트, 리스의 경우) 차량 임대차 계약서(*1) | 자차/렌트등 차량별 운행기록 | - 회사 자체적으로 작성한 운행기록일지를 제공하거나, 서식 양식에 맞추어 \u000b      차량별 총주행거리 및 업무용사용거리만을 제공...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.043228+00:00"
+    },
+    {
+      "id": "card-grid-031",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 22,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "4. 업무용승용차",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.044478+00:00"
+    },
+    {
+      "id": "card-grid-032",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 22,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.045291+00:00"
+    },
+    {
+      "id": "accent-bar-001",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 22,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "23",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.045775+00:00"
+    },
+    {
+      "id": "header-023",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 23,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.047610+00:00"
+    },
+    {
+      "id": "card-grid-033",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 23,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.048415+00:00"
+    },
+    {
+      "id": "accent-bar-002",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 23,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "24",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.048789+00:00"
+    },
+    {
+      "id": "header-024",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 24,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.050690+00:00"
+    },
+    {
+      "id": "card-grid-034",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 24,
+      "item_count": 2,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "업무무관가지급금 및 업무무관부동산 적수, 차입금 적수 계산내역(*1) | 회사의 가중평균차입이자율 계산내역 | 업무무관가지급금 관련 당해 사업연도에 인식한 이자수익\u000b - 계정별원장(이자수익 원장)을 통해 해당 거래처...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.058675+00:00"
+    },
+    {
+      "id": "card-grid-035",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 24,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.059519+00:00"
+    },
+    {
+      "id": "accent-bar-003",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 24,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "25",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.059965+00:00"
+    },
+    {
+      "id": "header-025",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 25,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.061911+00:00"
+    },
+    {
+      "id": "card-grid-036",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 25,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.062736+00:00"
+    },
+    {
+      "id": "accent-bar-004",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 25,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "26",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.063123+00:00"
+    },
+    {
+      "id": "header-026",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 26,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.065000+00:00"
+    },
+    {
+      "id": "card-grid-037",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 26,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.065831+00:00"
+    },
+    {
+      "id": "accent-bar-005",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 26,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "27",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.066205+00:00"
+    },
+    {
+      "id": "header-027",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 27,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.067982+00:00"
+    },
+    {
+      "id": "card-grid-038",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 27,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "감가상각명세서(고정자산대장) | - 당해 사업연도 중 처분된 자산 내역 포함(기초유보 추인 목적) | 건축물대장(*1) | 자산별 상각방법 내용연수 확인(전기조서 또는 내용연수신고서)(*2))",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.073229+00:00"
+    },
+    {
+      "id": "card-grid-039",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 27,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "6. 유형자산    감가상각시부인",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.074563+00:00"
+    },
+    {
+      "id": "card-grid-040",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 27,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.075400+00:00"
+    },
+    {
+      "id": "header-028",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 28,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.077233+00:00"
+    },
+    {
+      "id": "card-grid-041",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 28,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.078111+00:00"
+    },
+    {
+      "id": "header-029",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 29,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.079949+00:00"
+    },
+    {
+      "id": "card-grid-042",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 29,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "기부금명세서 : 당해 사업연도 중 지출된 전체 기부금리스트 | 기부금영수증(*1) : 특례기부금, 일반기부금 여부 확인(기부금단체조회(*2)) | 미지급기부금 및 이월기부금 관리 누락되지 않도록 유의할 것",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.083947+00:00"
+    },
+    {
+      "id": "card-grid-043",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 29,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "7. 기부금",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.085186+00:00"
+    },
+    {
+      "id": "card-grid-044",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 29,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.086029+00:00"
+    },
+    {
+      "id": "header-030",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 30,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.087904+00:00"
+    },
+    {
+      "id": "card-grid-045",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 30,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.088726+00:00"
+    },
+    {
+      "id": "header-031",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 31,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.090513+00:00"
+    },
+    {
+      "id": "card-grid-046",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 31,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "법인이 재고자산을 폐기처분하는 경우에는 그 사실이 객관적으로 입증할 수 \u000b있는 자료 | - 재고자산 폐기 관련 기안서(*1) | - 폐기 사실을 입증하는 현장사진(*2) | - 폐기전문업체와의 세금계산서, 거래명세서...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.096073+00:00"
+    },
+    {
+      "id": "card-grid-047",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 31,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "8. 재고자산 | 폐기손실",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.098339+00:00"
+    },
+    {
+      "id": "card-grid-048",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 31,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.099162+00:00"
+    },
+    {
+      "id": "header-032",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 32,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.100998+00:00"
+    },
+    {
+      "id": "card-grid-049",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 32,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.101830+00:00"
+    },
+    {
+      "id": "header-033",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 33,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.103635+00:00"
+    },
+    {
+      "id": "card-grid-050",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 33,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.104469+00:00"
+    },
+    {
+      "id": "header-034",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 34,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.106261+00:00"
+    },
+    {
+      "id": "card-grid-051",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 34,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.107096+00:00"
+    },
+    {
+      "id": "header-035",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 35,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.108887+00:00"
+    },
+    {
+      "id": "card-grid-052",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 35,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.109717+00:00"
+    },
+    {
+      "id": "header-036",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 36,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.111680+00:00"
+    },
+    {
+      "id": "card-grid-053",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 36,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "대손요건 충족(소멸시효완성, 사업의 폐지, 회생계획인가 등)여부를 입증할 수 있는 자료 | 회수불능임이 객관적으로 확인되는 때에 손금산입 가능하므로 실무상 회사의 회수노력에 대한 자료의 구비 권고 | - 거래처의 폐...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.117542+00:00"
+    },
+    {
+      "id": "card-grid-054",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 36,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "9. 대손금",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.118781+00:00"
+    },
+    {
+      "id": "card-grid-055",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 36,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.119618+00:00"
+    },
+    {
+      "id": "header-037",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 37,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.121429+00:00"
+    },
+    {
+      "id": "card-grid-056",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 37,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.122260+00:00"
+    },
+    {
+      "id": "header-038",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 38,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.124140+00:00"
+    },
+    {
+      "id": "card-grid-057",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 38,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "상법상 해산 및 청산종결 등기(회사의 존재가 소멸되는 상법상 제도)된 경우 당해 주식가액에 대한 손금산입 가능 | - 법인등기부등본(*1)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.126659+00:00"
+    },
+    {
+      "id": "card-grid-058",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 38,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "10. 주식의  \u000b    손상 평가",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.128028+00:00"
+    },
+    {
+      "id": "card-grid-059",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 38,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.128871+00:00"
+    },
+    {
+      "id": "accent-bar-006",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 38,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "39",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.129263+00:00"
+    },
+    {
+      "id": "header-039",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 39,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.131132+00:00"
+    },
+    {
+      "id": "card-grid-060",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 39,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.131950+00:00"
+    },
+    {
+      "id": "accent-bar-007",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 39,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "40",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.132353+00:00"
+    },
+    {
+      "id": "header-040",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 40,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.134242+00:00"
+    },
+    {
+      "id": "card-grid-061",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 40,
+      "item_count": 2,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "국고(정부)보조금 수령 관련 협약서 또는 교부결정서(*1) | R&D세액공제 적용 관련 기업부설연구소 인증서(*2) | 국외특수관계자 차입금의 지급보증 제공에 대한 정상가격 조정 시 국세청 고시 \u000b 지급보증 정상가격...",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.140567+00:00"
+    },
+    {
+      "id": "card-grid-062",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 40,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.141397+00:00"
+    },
+    {
+      "id": "accent-bar-008",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 40,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "41",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.141763+00:00"
+    },
+    {
+      "id": "header-041",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 41,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.143650+00:00"
+    },
+    {
+      "id": "card-grid-063",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 41,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.144498+00:00"
+    },
+    {
+      "id": "accent-bar-009",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 41,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "42",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.144863+00:00"
+    },
+    {
+      "id": "header-042",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 42,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.146760+00:00"
+    },
+    {
+      "id": "card-grid-064",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 42,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.147589+00:00"
+    },
+    {
+      "id": "accent-bar-010",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 42,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "43",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.147963+00:00"
+    },
+    {
+      "id": "header-043",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 43,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.149832+00:00"
+    },
+    {
+      "id": "card-grid-065",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 43,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.150668+00:00"
+    },
+    {
+      "id": "accent-bar-011",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 43,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "44",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.151037+00:00"
+    },
+    {
+      "id": "header-044",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 44,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "세무조정 관련 회사자료 요청 상세 | 세무조정 관련 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.152905+00:00"
+    },
+    {
+      "id": "card-grid-066",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 44,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.153727+00:00"
+    },
+    {
+      "id": "accent-bar-012",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 44,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "45",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.154105+00:00"
+    },
+    {
+      "id": "header-045",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 45,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "[Appendix] 세무조정 업무 外 회사요청자료 | 세무조정을 제외한 기타 업무 수행 시 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.155962+00:00"
+    },
+    {
+      "id": "card-grid-067",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 45,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.156794+00:00"
+    },
+    {
+      "id": "accent-bar-013",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 45,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "46",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.157172+00:00"
+    },
+    {
+      "id": "header-046",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 46,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "[Appendix] 세무조정 업무 外 회사요청자료 | 세무조정을 제외한 기타 업무 수행 시 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.159029+00:00"
+    },
+    {
+      "id": "card-grid-068",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 46,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.159877+00:00"
+    },
+    {
+      "id": "accent-bar-014",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 46,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "47",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.160265+00:00"
+    },
+    {
+      "id": "header-047",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 47,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "[Appendix] 세무조정 업무 外 회사요청자료 | 세무조정을 제외한 기타 업무 수행 시 실제 수령하게 되는 회사자료(예시)는 다음과 같습니다.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.162122+00:00"
+    },
+    {
+      "id": "card-grid-069",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 47,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.163012+00:00"
+    },
+    {
+      "id": "accent-bar-015",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 47,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "48",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.163412+00:00"
+    },
+    {
+      "id": "header-048",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 48,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.164378+00:00"
+    },
+    {
+      "id": "card-grid-070",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 48,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.165248+00:00"
+    },
+    {
+      "id": "accent-bar-016",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 48,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "49",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.165671+00:00"
+    },
+    {
+      "id": "header-049",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 49,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.166690+00:00"
+    },
+    {
+      "id": "card-grid-071",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 49,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.167673+00:00"
+    },
+    {
+      "id": "accent-bar-017",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 49,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "50",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.168073+00:00"
+    },
+    {
+      "id": "header-050",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 50,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review (사전 준비작업)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.169090+00:00"
+    },
+    {
+      "id": "card-grid-072",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 50,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.169917+00:00"
+    },
+    {
+      "id": "accent-bar-018",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 50,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "51",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.170313+00:00"
+    },
+    {
+      "id": "header-051",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 51,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review (세무조정 수행)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.171343+00:00"
+    },
+    {
+      "id": "card-grid-073",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 51,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.172168+00:00"
+    },
+    {
+      "id": "accent-bar-019",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 51,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "52",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.172566+00:00"
+    },
+    {
+      "id": "header-052",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 52,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review (세무조정 수행)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.173604+00:00"
+    },
+    {
+      "id": "card-grid-074",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 52,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.174430+00:00"
+    },
+    {
+      "id": "accent-bar-020",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 52,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "53",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.174795+00:00"
+    },
+    {
+      "id": "header-053",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 53,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review (신고서식 작성)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.175848+00:00"
+    },
+    {
+      "id": "card-grid-075",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 53,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.176739+00:00"
+    },
+    {
+      "id": "accent-bar-021",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 53,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "54",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.177122+00:00"
+    },
+    {
+      "id": "header-054",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 54,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review (리뷰 / 전자신고)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.178223+00:00"
+    },
+    {
+      "id": "card-grid-076",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 54,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.179032+00:00"
+    },
+    {
+      "id": "accent-bar-022",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 54,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "55",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.179399+00:00"
+    },
+    {
+      "id": "header-055",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 55,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review (Sign-off)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.180287+00:00"
+    },
+    {
+      "id": "card-grid-077",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 55,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.181077+00:00"
+    },
+    {
+      "id": "accent-bar-023",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 55,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "56",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.181465+00:00"
+    },
+    {
+      "id": "header-056",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 56,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Product Process Review (Documentation)",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.182360+00:00"
+    },
+    {
+      "id": "card-grid-078",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 56,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "2025.06",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.183181+00:00"
+    },
+    {
+      "id": "accent-bar-024",
+      "type": "accent-bar",
+      "source_id": "tax-start-v2",
+      "slide_index": 56,
+      "item_count": 1,
+      "section_types": [
+        "accent-bar"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "57",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.183550+00:00"
+    },
+    {
+      "id": "header-057",
+      "type": "header",
+      "source_id": "tax-start-v2",
+      "slide_index": 57,
+      "item_count": 1,
+      "section_types": [
+        "header"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "Thank you",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.184238+00:00"
+    },
+    {
+      "id": "card-grid-079",
+      "type": "card-grid",
+      "source_id": "tax-start-v2",
+      "slide_index": 57,
+      "item_count": 1,
+      "section_types": [
+        "card-grid"
+      ],
+      "accent_color": "D04A02",
+      "text_summary": "© 2025 Samil PwC. All rights reserved.",
+      "use_count": 0,
+      "created_at": "2026-03-07T15:50:36.185140+00:00"
+    }
+  ]
+}

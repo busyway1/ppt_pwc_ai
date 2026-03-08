@@ -1,0 +1,19 @@
+{
+  "source_id": "tax-start-v2",
+  "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+  "ingested_at": "2026-03-07T15:50:36.199112+00:00",
+  "slide_count": 58,
+  "component_count": 166,
+  "component_types": {
+    "card-grid": 79,
+    "header": 57,
+    "process-flow": 3,
+    "table-layout": 1,
+    "full-page": 2,
+    "accent-bar": 24
+  },
+  "slide_dimensions": {
+    "width_inches": 10.83,
+    "height_inches": 7.5
+  }
+}

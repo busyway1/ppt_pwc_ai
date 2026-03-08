@@ -1,0 +1,53 @@
+{
+  "id": "card-grid-061",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 40,
+    "region": {
+      "left": 0.76,
+      "top": 1.94,
+      "width": 9.62,
+      "height": 2.85
+    }
+  },
+  "pattern": {
+    "item_count": 2,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 2,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 6.77,
+      "height": 1.46,
+      "shape_type": "AUTO_SHAPE",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 12.0,
+          "relative_top": 0.0,
+          "relative_height": 1.0
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "fill_1": "BACKGROUND_1",
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "국고(정부)보조금 수령 관련 협약서 또는 교부결정서(*1) | R&D세액공제 적용 관련 기업부설연구소 인증서(*2) | 국외특수관계자 차입금의 지급보증 제공에 대한 정상가격 조정 시 국세청 고시 \u000b 지급보증 정상가격...",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.140567+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "card-grid-038",
+  "type": "card-grid",
+  "source": {
+    "source_id": "tax-start-v2",
+    "filename": "[Tax Start] 세무조정관련 회사자료 보는법_김용재_v2.pptx",
+    "slide_index": 27,
+    "region": {
+      "left": 3.61,
+      "top": 2.1,
+      "width": 6.77,
+      "height": 1.18
+    }
+  },
+  "pattern": {
+    "item_count": 1,
+    "orientation": "horizontal",
+    "grid": {
+      "rows": 1,
+      "cols": 1,
+      "gap_inches": 0
+    },
+    "item_template": {
+      "width": 6.77,
+      "height": 1.18,
+      "shape_type": "TEXT_BOX",
+      "content_zones": [
+        {
+          "role": "body",
+          "bullet": true,
+          "font_size": 13.0,
+          "relative_top": 0.0,
+          "relative_height": 0.5
+        },
+        {
+          "role": "body",
+          "font_size": 13.0,
+          "relative_top": 0.5,
+          "relative_height": 0.5
+        }
+      ]
+    }
+  },
+  "design_tokens": {
+    "text_color": "000000",
+    "accent_color": "D04A02"
+  },
+  "context": {
+    "section_types": [
+      "card-grid"
+    ],
+    "text_summary": "감가상각명세서(고정자산대장) | - 당해 사업연도 중 처분된 자산 내역 포함(기초유보 추인 목적) | 건축물대장(*1) | 자산별 상각방법 내용연수 확인(전기조서 또는 내용연수신고서)(*2))",
+    "use_count": 0,
+    "quality_rating": null
+  },
+  "thumbnail_path": null,
+  "created_at": "2026-03-07T15:50:36.073229+00:00"
+}

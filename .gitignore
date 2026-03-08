@@ -1,0 +1,10 @@
+workspace/
+*.pptx
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ruff_cache/
+venv/
+tools/html2pptx_runner.js
